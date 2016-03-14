@@ -1,4 +1,4 @@
-package com.kerson.polymorphism.tv;
+package com.kerson.polymorphism2.tv;
 
 public class LgTV implements TV {
 
